@@ -1,0 +1,6 @@
+# git init 
+# git add .
+# git commit -m "your message goes here"
+# git status
+# git log (hit 'q' to exit)
+# git checkout (unique commit id)
