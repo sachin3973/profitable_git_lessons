@@ -4,3 +4,11 @@
 # git status
 # git log (hit 'q' to exit)
 # git checkout (unique commit id)
+
+Git Remote Comands ....
+# git remote add origin (url)
+# git remote -v
+# git push origin master
+# git pull origin master
+# git clone (url) 
+# git checkout -b (Coolest way to create a branch and switched to it)
